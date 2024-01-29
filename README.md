@@ -1,5 +1,9 @@
 [![](https://github.com/abdelhamid-labihi/abdelhamid-labihi/blob/main/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
 
+<h5 align="center">
+   <i>⚡️There are two ways to write error-free programs; only the third one works.⚡️</i>
+</h5>
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
