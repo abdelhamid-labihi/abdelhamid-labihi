@@ -52,4 +52,4 @@
 </p>
 
 ---
-<img src="https://github.com/abdelhamid-labihi/abdelhamid-labihi/blob/main/bootom.svg" alt="Bottom" />
+<img src="https://github.com/abdelhamid-labihi/abdelhamid-labihi/blob/main/Bottom.svg" alt="Bottom" />
