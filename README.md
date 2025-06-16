@@ -1,4 +1,4 @@
-[![](https://github.com/abdelhamid-labihi/abdelhamid-labihi/blob/main/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+[![](https://github.com/abdelhamid-labihi/abdelhamid-labihi/blob/main/profile.gif)]()<!-- If you want the template for my gif, email me! -->
 
 <div align="center">
    <h1>Welcome to <a href="#">Abdelhamid</a>'s profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> </h1>
