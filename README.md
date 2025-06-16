@@ -43,7 +43,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <p>
-    <a href="https://www.linkedin.com/in/abdelhamid-labihi-5bb689264/">
+    <a href="https://www.linkedin.com/in/abdelhamid-labihi/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
     </a>
     <a href="mailto:labihi.abdelhamid1@gmail.com">
